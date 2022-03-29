@@ -9,6 +9,12 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 👉 Upload as file from any HTTP link
 
+
+# Telegram Bot Link
+   1. https://t.me/URLxADAMxTelegram_bot
+   2. https://t.me/URL2xADAMxTelegram_bot
+   3. https://t.me/URL3xADAMxTelegram_bot
+
 ### Installation
 
 #### The Easy Way
